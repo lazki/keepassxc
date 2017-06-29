@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>Debug Info</source>
-        <translation type="unfinished"/>
+        <translation>Info de Depuración</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Include the following information whenever you report a bug:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -78,7 +78,7 @@
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Copiar al portapapeles</translation>
     </message>
     <message>
         <source>Version %1
@@ -228,15 +228,15 @@ Por favor seleccione si desea autorizar su acceso.</translation>
     </message>
     <message>
         <source>Cha&amp;llenge Response</source>
-        <translation type="unfinished"/>
+        <translation>Desafío Respuesta</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished"/>
+        <translation>Refrescar</translation>
     </message>
     <message>
         <source>Empty password</source>
-        <translation type="unfinished"/>
+        <translation>Contraseña vacía</translation>
     </message>
     <message>
         <source>Changing master key failed: no YubiKey inserted.</source>
@@ -1591,7 +1591,7 @@ Esta migración es en un único sentido. No podrá abrir la base importada con l
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished"/>
+        <translation>$amp;Herramientas</translation>
     </message>
     <message>
         <source>Import KeePass 1 database</source>
